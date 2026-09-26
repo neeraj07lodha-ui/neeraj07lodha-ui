@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Computer Science Student
+* 🎓 Artifical Intelligence & Machine Learnind (Diploma) Student
 * 🤖 Currently learning **Artificial Intelligence & Machine Learning**
 * 🐍 Learning and developing projects using **Python**
 * 📊 Interested in **Data Science & Data Analytics**
